@@ -1,3 +1,6 @@
+// program in which parent process waits till its child process terminates
+
+
 #include<stdio.h>
 #include<unistd.h>
 
