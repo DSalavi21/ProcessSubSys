@@ -1,3 +1,7 @@
+//program which create three level process hierarchy,
+//where process 1 creates process 2 and it internally creates process 3
+
+
 #include<stdio.h>
 #include<unistd.h>
 
