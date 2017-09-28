@@ -7,8 +7,8 @@
 int main(int argc,char *argv[])
 {
  int flag=0;
- char Arr[256],Brr[256],buffer[sizeof(int)];
- int fd1,ret1,fd2,ret2,countfd,ret;
+ char Arr[256],Brr[256];
+ int fd1,ret1,fd2,ret2,countfd;
  int cap1=0,cap2=0;
  char *val1, *val2 ;
  printf("Parent Process\n");
